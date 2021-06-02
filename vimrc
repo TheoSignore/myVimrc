@@ -11,3 +11,4 @@ set wildmenu
 set hlsearch
 set ignorecase
 set smartcase
+set colorcolumn:81
